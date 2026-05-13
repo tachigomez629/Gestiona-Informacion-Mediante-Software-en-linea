@@ -49,6 +49,19 @@ Existe riesgo de publicar información privada por error.
 
 Algunas funciones avanzadas son de pago.
 
+
+
+Alice Munro
+Munro es conocida principalmente por sus relatos cortos y ha publicado numerosas colecciones a lo largo de los años. 
+Entre sus obras destacan:
+¿Quién te crees que eres ? (1978)
+Las lunas de Júpiter (1982)
+Fugitiva (2004)
+La vista desde Castle Rock (2006)
+Demasiada felicidad (2009). 
+La colección Odio, amistad, cortejo, amor, matrimonio (2001) sirvió de base para la película Lejos de ella (2006), dirigida por Sarah Polley.
+Su colección más reciente es Querida vida (2012).
+
 Puede ser confuso en proyectos muy grandes.
 
 La administración de permisos puede complicarse en equipos grandes.
